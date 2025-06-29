@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "love.mp3"
+   "[DUCBUI REMIX] ĐỪNG LÀM TRÁI TIM ANH ĐAU - SƠN TÙNG M-TP.mp3"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
